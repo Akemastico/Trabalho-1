@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+*.sqlite3
+venv/
+.venv/
+env/
+
+# Frontend (SvelteKit)
+node_modules/
+.svelte-kit/
+build/
+.output/
+.vercel/
+.netlify/
+
+# Env
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
